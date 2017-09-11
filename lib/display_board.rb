@@ -1,2 +1,6 @@
 def display_board
-  <pre>"   ",|,"   ",|,"   "</pre>
+  cell = return "   ", "|", "   ", "|", "   "
+  line = return "-----------"
+  cell = return "   ", "|", "   ", "|", "   "
+  line = return "-----------"
+  cell = return "   ", "|", "   ", "|", "   "
